@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 cf8ca58e6a8faa63a1551c98a90db179347b864a Ikuo Degawa <degawa@ikuwow.com> 1403770695 +0900	commit (initial): initial commit
+cf8ca58e6a8faa63a1551c98a90db179347b864a 5347d5744bcb9ac5491ac1db0aa1ecdf84eb5c2c Ikuo Degawa <degawa@ikuwow.com> 1403781151 +0900	commit: トップページを作成
+5347d5744bcb9ac5491ac1db0aa1ecdf84eb5c2c ac89c36df7c2c70c86acfbcf124fa34e0efa1a70 Ikuo Degawa <degawa@ikuwow.com> 1403781403 +0900	commit: aboutページを追加
+ac89c36df7c2c70c86acfbcf124fa34e0efa1a70 e8bc654f2333e59c1bf56995dd766623d8752137 Ikuo Degawa <degawa@ikuwow.com> 1403782617 +0900	commit: スキーマとテストデータを追加
+e8bc654f2333e59c1bf56995dd766623d8752137 7febf5c6a394060a46d00f1d10da249b7635157c Ikuo Degawa <degawa@ikuwow.com> 1404783022 +0900	commit (amend): スキーマとテストデータを追加
+7febf5c6a394060a46d00f1d10da249b7635157c 1881bb5ef398c676d87f218317bda69c05f86b53 Ikuo Degawa <degawa@ikuwow.com> 1404783840 +0900	commit (amend): スキーマとテストデータを追加
+1881bb5ef398c676d87f218317bda69c05f86b53 5b285a4e1e768b5fa857e396a7baae187bc9e0a4 Ikuo Degawa <degawa@ikuwow.com> 1404785206 +0900	commit: トップページにこのページについてへのリンクを追加
+5b285a4e1e768b5fa857e396a7baae187bc9e0a4 ade51aa021e6c4d7d09d5b8febd76695cbd73f79 Ikuo Degawa <degawa@ikuwow.com> 1404785724 +0900	commit: 記事一覧ページ作成、記事一覧ページへのリンクを張る
+ade51aa021e6c4d7d09d5b8febd76695cbd73f79 eeee6b9bb68b91a2fe69967204743ff8bb62ec19 Ikuo Degawa <degawa@ikuwow.com> 1404786871 +0900	commit: 投稿ページ作成、Postモデル作成、一覧表示
+eeee6b9bb68b91a2fe69967204743ff8bb62ec19 f681cfe2670d61ea60832d1188947190f096a97e Ikuo Degawa <degawa@ikuwow.com> 1404787291 +0900	commit: テストデータを追加
+f681cfe2670d61ea60832d1188947190f096a97e 0cf6526cf85f1c4afb9a30647abc6eb845ceb7e4 Ikuo Degawa <degawa@ikuwow.com> 1404791001 +0900	commit: 記事詳細ページ、記事追加ページを追加
+0cf6526cf85f1c4afb9a30647abc6eb845ceb7e4 da3ca9d61aeb5d6a66c1f6fff29e61aebbad166c Ikuo Degawa <degawa@ikuwow.com> 1404792218 +0900	commit: 記事追加ページヘのリンク、postsモデルのバリデーション、setflash
+da3ca9d61aeb5d6a66c1f6fff29e61aebbad166c 092a56966c0a35147737ad6f2b3337396c8ef1d5 Ikuo Degawa <degawa@ikuwow.com> 1404794046 +0900	commit: 削除メソッドを作成
+092a56966c0a35147737ad6f2b3337396c8ef1d5 ea5320eca9222998ce623971edb09e6fd6982898 Ikuo Degawa <degawa@ikuwow.com> 1404794426 +0900	commit: h1タグを全てh2タグに変更
+ea5320eca9222998ce623971edb09e6fd6982898 65d59073f31906be01ad33828cf001459506777b Ikuo Degawa <degawa@ikuwow.com> 1404795138 +0900	commit: ヘッダを作成
+65d59073f31906be01ad33828cf001459506777b f0ae7155fd7c4f8486b0a29954ddebac385cee9a Ikuo Degawa <degawa@ikuwow.com> 1404796167 +0900	commit: トップのロゴとフォームを整えた
+f0ae7155fd7c4f8486b0a29954ddebac385cee9a 67cad501394bb267df97906f586c5594d6472317 Ikuo Degawa <degawa@ikuwow.com> 1407205017 +0900	commit: 記事編集ページを追加
+67cad501394bb267df97906f586c5594d6472317 2d09e25e8a771f1bc2d6532294a25ff317e25567 Ikuo Degawa <degawa@ikuwow.com> 1407205036 +0900	commit (amend): 記事編集ページを追加
+2d09e25e8a771f1bc2d6532294a25ff317e25567 00804ce478c55cbf7884195a4575b98950276968 Ikuo Degawa <degawa@ikuwow.com> 1407206085 +0900	commit: layoutを少し変更
+00804ce478c55cbf7884195a4575b98950276968 ed07021ec5ff05d5b798733b1757182519459820 Ikuo Degawa <degawa@ikuwow.com> 1407207036 +0900	commit: Usersコントローラ等を追加
+ed07021ec5ff05d5b798733b1757182519459820 772994c90975d2baa8e22db401678ecda817686a Ikuo Degawa <degawa@ikuwow.com> 1407208556 +0900	commit: categoryを追加
+772994c90975d2baa8e22db401678ecda817686a 598f72a2150769d901b509c4ca5ccddc2d78f9ca Ikuo Degawa <degawa@ikuwow.com> 1407209236 +0900	commit: 空のモデルを作成
+598f72a2150769d901b509c4ca5ccddc2d78f9ca 9680d2350085c21b67a66e73b0911c230f4a53f1 Ikuo Degawa <degawa@ikuwow.com> 1407210387 +0900	commit: カテゴリーからPostsを表示可能に
+9680d2350085c21b67a66e73b0911c230f4a53f1 dd139336b6d9e9f3bb25662f9c6d5d07759a399e Ikuo Degawa <degawa@ikuwow.com> 1407210610 +0900	commit: userからpostsを表示可能に
+dd139336b6d9e9f3bb25662f9c6d5d07759a399e 07efca263ea6181349c2e06a0da7b2747d496196 Ikuo Degawa <degawa@ikuwow.com> 1407284506 +0900	commit: バリデーションとアソシエーションセーブ
+07efca263ea6181349c2e06a0da7b2747d496196 38a98b56d637f7d5a80b3cbce45d263461bb4118 Ikuo Degawa <degawa@ikuwow.com> 1407287247 +0900	commit: トップのレイアウトを調整
+38a98b56d637f7d5a80b3cbce45d263461bb4118 6e22a1303831ab3e553056b461f196dcec10d4f7 Ikuo Degawa <degawa@ikuwow.com> 1407289547 +0900	commit: このページについてを作成
+6e22a1303831ab3e553056b461f196dcec10d4f7 cf8ca58e6a8faa63a1551c98a90db179347b864a Ikuo Degawa <degawa@ikuwow.com> 1407375879 +0900	reset: moving to cf8ca58e6a8faa63a1551c98a90db179347b864a
